@@ -10,6 +10,7 @@
 </h1>
 <h3 align="center">
   <b>JS Engine is a heavily modified Psych Engine fork, with lower-end devices and more customization in mind.</b>
+  <i>JS Flash edition is a WIP project to port JS Engine in a way it can be build with</i> <pre>lime test flash</pre>
 </h3>
 
 <p align="center">
@@ -209,6 +210,7 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+
 
 
 
