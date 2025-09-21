@@ -9,13 +9,14 @@
   <br>
 </h1>
 <h3 align="center">
-  <b>JS Engine is a heavily modified Psych Engine fork, with lower-end devices and more customization in mind.</b>
+  <b>JS Engine is a heavily modified Psych Engine fork, with lower-end devices and more customization in mind.</b><br><br>
+  <i>JS Flash edition is a WIP project to port JS Engine in a way it can be build with</i> <pre>lime test flash</pre>
 </h3>
 
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JordanSantiagoYT/FNF-JS-Engine">
-<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/JordanSantiagoYT/FNF-JS-Engine">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/JordanSantiagoYT/FNF-JS-Engine">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/FNF-JS-Flash">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/PatoFlamejanteTV/FNF-JS-Flash">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PatoFlamejanteTV/FNF-JS-Flash">
 </p>
 
 README.md revamped by [Nael2xd](https://youtube.com/@nael2xd?si=axwJrY_8jdlXUwSm)
@@ -209,4 +210,8 @@ _____________________________________
 * Some stuff based on Week 7's changes has been put in (Background colors on Freeplay, Note splashes)
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
+
+
+
+
 
